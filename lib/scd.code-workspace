@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"flutter-preview.port": 5555,
+		"files.autoSave": "off",
+		"files.autoSaveDelay": 0.0005,
+		"dart.flutterHotReloadOnSave": "all",
+		"dart.hotReloadOnSave": "all"
+	}
+}
